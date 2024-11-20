@@ -1,9 +1,9 @@
 # Final Project - Soccer Shooting Game
 
-## Project Overview
+## **Project Overview**
 For my final project, I intend to create an interactive soccer shooting game. The player will click to aim the ball, and the goalkeeper will randomly dive to a spot to block or let the ball pass. I will load models for a soccer ball, a stadium, and a goalkeeper using Three.js. The soccer ball will be animated with simple movements, and the goalkeeper will have an animation for diving. Additionally, lighting will be used to create a realistic environment, and the entire scene will be rendered in Three.js using JavaScript.
 
-## Project Schedule
+## **Project Schedule**
 
 **Week 1:**  
 - Research and find 3D models for a soccer ball, stadium, and goalkeeper.  
@@ -24,7 +24,7 @@ For my final project, I intend to create an interactive soccer shooting game. Th
 - Implement game logic (scoring, goal detection).  
 - Prepare for final presentation and submit the project.
 
-## Project Technical Requirements
+## **Project Technical Requirements**
 - **Technologies Used:** Three.js, JavaScript  
 - **Models:** Soccer ball, stadium, and goalkeeper (in formats such as OBJ or GLTF)  
 - **Animation:** Simple animations for ball movement and goalkeeper dive.  
